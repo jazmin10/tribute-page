@@ -1,4 +1,12 @@
 /* ======== TRIBUTE PAGE HEADING ======== */
 header {
-	background: blue;
+	background: rgb(11, 11, 181);
+	display: flex;
+	justify-content: center;
+}
+
+#title-content {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
 }
