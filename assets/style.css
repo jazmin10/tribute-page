@@ -45,7 +45,7 @@ body {
 /* Bernabéu Image */
 #img-div {
 	background: rgb(215, 211, 211);
-	padding: 30px;
+	padding: 30px 30px 16px 30px;
 }
 
 #image {
@@ -54,6 +54,13 @@ body {
 	height: auto; 
 	margin: 0 auto;
 }
+
+#img-caption {
+	margin-bottom: 0px;
+  text-align: center;
+}
+
+
 
 
 
