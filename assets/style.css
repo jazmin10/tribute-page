@@ -42,6 +42,19 @@ body {
 	width: 80%;
 }
 
+/* Bernabéu Image */
+#img-div {
+	background: rgb(179, 177, 177);
+}
+
+#image {
+	max-width: 100%;
+	display: block;
+	height: auto; 
+	margin: 0 auto;
+	padding-top: 30px;
+}
+
 
 
 
