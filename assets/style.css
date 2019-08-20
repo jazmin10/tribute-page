@@ -94,10 +94,22 @@ body {
 	margin-bottom: 5px;
 }
 
+/* ======== TRIBUTE QUOTE ======== */
+#tribute-quote {
+	width: 50%;
+	margin: 0 auto;
+	marging-top: ;
+}
+
+#tribute-quote p {
+	font-style: italic;
+	color: rgb(15, 49, 147);
+}
+
 /* ======== TRIBUTE LINK INFORMATION ======== */
 
 #link-info {
-	margin-top: 40px;
+	margin-top: 30px;
 }
 
 /* ======== TRIBUTE PAGE FOOTER ======== */
