@@ -100,8 +100,27 @@ body {
 	margin-top: 40px;
 }
 
+/* ======== TRIBUTE PAGE FOOTER ======== */
+footer {
+	background: rgb(215, 211, 211);
+	padding: 10px 0px;
+	text-align: center;
+	border-top: 5px solid rgb(15, 49, 147);
+}
 
-
-
+/* Sticky Footer */
+html, body {
+  height: 100%;
+}
+body {
+  display: flex;
+  flex-direction: column;
+}
+main {
+  flex: 1 0 auto;
+}
+footer {
+  flex-shrink: 0;
+}
 
 
