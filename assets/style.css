@@ -93,11 +93,12 @@ body {
 
 /* Timeline Honours */
 .honours-container {
-	margin: 10px 40px;
+	margin: 0px 40px 10px 40px;
 }
 
 .honours-title {
 	margin-bottom: 5px;
+	margin-top: 0px;
 	font-family: 'Gruppo', cursive;
 	font-size: 18px;
 }
@@ -121,10 +122,6 @@ body {
 }
 
 /* ======== TRIBUTE LINK INFORMATION ======== */
-
-#link-info {
-	margin-top: 30px;
-}
 
 #link-info p {
 	font-family: 'Gruppo', cursive;
