@@ -1,3 +1,8 @@
+/* ======== GENERAL STYLING ======== */
+body {
+	margin: 0px;
+}
+
 /* ======== TRIBUTE PAGE HEADING ======== */
 #header {
 	background: rgb(15, 49, 147);
@@ -5,18 +10,19 @@
 	justify-content: center;
 }
 
+/* Image */
 #header img {
 	margin: 50px 20px;
 	height: 200px;
 }
 
+/* Title Text */
 #title-content {
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
 	text-align: center;
 }
-
 
 #title {
 	margin-bottom: 0px;
