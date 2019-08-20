@@ -1,12 +1,27 @@
 /* ======== TRIBUTE PAGE HEADING ======== */
-header {
+#header {
 	background: rgb(11, 11, 181);
 	display: flex;
 	justify-content: center;
 }
 
-#title-content {
+#header img {
+	margin: 50px 20px;
+	height: 200px;
+}
+
+/*#title-content {
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
+	text-align: center;
 }
+
+
+#title {
+	margin-bottom: 0px;
+}
+
+#title-content p {
+	margin-top: 0px;
+}*/
