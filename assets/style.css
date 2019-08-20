@@ -27,11 +27,13 @@ body {
 #title {
 	margin-bottom: 0px;
 	color: #fff;
+	font-family: 'Gruppo', cursive;
 }
 
 #title-content p {
 	margin-top: 0px;
 	color: #fff;
+	font-family: 'Gruppo', cursive;
 }
 
 /* ======== TRIBUTE PAGE MAIN CONTENT ======== */
@@ -58,6 +60,7 @@ body {
 #img-caption {
 	margin-bottom: 0px;
   text-align: center;
+  font-family: 'Gruppo', cursive;
 }
 
 /* ======== TRIBUTE CONTENT ======== */
@@ -75,6 +78,7 @@ body {
 /* Timeline */
 #timeline .timeline-item {
 	margin-bottom: 10px;
+	font-family: 'Gruppo', cursive;
 }
 
 #timeline .timeline-item .timeline-year {
@@ -88,10 +92,12 @@ body {
 
 .honours-title {
 	margin-bottom: 5px;
+	font-family: 'Gruppo', cursive;
 }
 
 .honours-item {
 	margin-bottom: 5px;
+	font-family: 'Gruppo', cursive;
 }
 
 /* ======== TRIBUTE QUOTE ======== */
@@ -112,12 +118,20 @@ body {
 	margin-top: 30px;
 }
 
+#link-info p {
+	font-family: 'Gruppo', cursive;
+}
+
 /* ======== TRIBUTE PAGE FOOTER ======== */
 footer {
 	background: rgb(215, 211, 211);
 	padding: 10px 0px;
 	text-align: center;
 	border-top: 5px solid rgb(15, 49, 147);
+}
+
+footer p {
+	color: rgb(105, 100, 100);
 }
 
 /* Sticky Footer */
