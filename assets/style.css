@@ -60,6 +60,19 @@ body {
   text-align: center;
 }
 
+/* ======== TRIBUTE CONTENT ======== */
+
+#tribute-info {
+	margin-top: 40px;
+}
+
+/* Timeline Title */
+#tribute-info h2 {
+	color: rgb(15, 49, 147);
+	text-align: center;
+}
+
+
 
 
 
