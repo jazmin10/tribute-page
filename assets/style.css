@@ -10,7 +10,7 @@
 	height: 200px;
 }
 
-/*#title-content {
+#title-content {
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
@@ -20,8 +20,10 @@
 
 #title {
 	margin-bottom: 0px;
+	color: #fff;
 }
 
 #title-content p {
 	margin-top: 0px;
-}*/
+	color: #fff;
+}
